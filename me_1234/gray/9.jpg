@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+
+<html lang="ua">
+<head>
+		<!-- Google Tag Manager -->
+	<script data-skip-moving="true">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5MWFQF2');</script>
+	<!-- End Google Tag Manager -->
+	
+	
+	
+	
+	<script data-skip-moving="true" async src="https://www.googletagmanager.com/gtag/js?id=AW-381716038"></script>
+	<script data-skip-moving="true">
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'AW-381716038');
+	</script>
+		
+	
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/templates/main/css/common/style.css?177986658499787" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/main/css/common/style-header.css?177737228920151" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/main/css/common/style-footer.css?17767634433310" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/main/css/FA/css/font-awesome.min.css?173892333331000" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/main/pages/main/css/style.css?177688142228684" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/main/components/bitrix/menu/top/style.css?1738923331581" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/main/components/bitrix/sale.basket.basket.line/small_basket/style.css?17389233314401" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/.default/components/bitrix/menu/personal1/style.css?1738923337581" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/local/templates/.default/components/bitrix/menu/main_menu_new/style.css?17764981623020" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/main/components/bitrix/breadcrumb/breadcrumb/style.css?1738923331585" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/main/components/bitrix/catalog.section.list/section_bottom_list/style.css?17389233317151" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/main/components/bitrix/menu/bottom1/style.css?1738923331581" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/main/styles.css?17782283224137" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/templates/main/template_styles.css?177696411610494" type="text/css" rel="stylesheet" data-template-style="true"/>
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({"pull_server_enabled":"N","pull_config_timestamp":0,"shared_worker_allowed":"Y","pull_guest_mode":"N","pull_guest_user_id":0,"pull_worker_mtime":1776365151});(window.BX||top.BX).message({"PULL_OLD_REVISION":"Для продолжения корректной работы с сайтом необходимо перезагрузить страницу."});</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
+
+<script src="/bitrix/js/main/core/core.js?1776365659543783"></script>
+
+<script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
+</script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1786026526,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":"12fadc04521b38498529a48efac2e4c7"});</script>
+
+
+<script src="/bitrix/js/pull/protobuf/protobuf.js?1738923327274055"></script>
+<script src="/bitrix/js/pull/protobuf/model.js?173892332770928"></script>
+<script src="/bitrix/js/main/core/core_promise.js?17763656475221"></script>
+<script src="/bitrix/js/rest/client/rest.client.js?177635670917414"></script>
+<script src="/bitrix/js/pull/client/pull.client.js?177636515283861"></script>
+<script>
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s1")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+
+
+
+<script src="/bitrix/templates/main/js/jQuery/jquery-3.4.1.js?1738923331426880"></script>
+<script src="/bitrix/templates/main/js/jquery.cookie.js?17389233314246"></script>
+<script src="/bitrix/templates/main/script.js?177688125346885"></script>
+<script src="/bitrix/templates/main/js/inputmask.js?173892333183370"></script>
+<script src="/bitrix/templates/main/components/bitrix/sale.basket.basket.line/small_basket/script.js?17389233315335"></script>
+<script src="/bitrix/templates/main/js/common/menu.js?17389233312160"></script>
+<script src="/bitrix/templates/main/js/common/header.js?17768733162715"></script>
+<script src="/bitrix/templates/main/js/common/footer.js?1738923331439"></script>
+<script src="/bitrix/templates/main/js/common/script.js?177744308514520"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon.png">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	
+						
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.1.62/jquery.inputmask.bundle.js"></script>
+		
+
+ 	<meta property="og:title" content="Ошибка 404">
+	<meta property="og:url" content="/upload/iblock/cb6/zyndk4gs2pbx1qwol2a3txnst75ay11i/ODT175800_9.jpeg">
+	<meta property="og:locale" content="uk_UA">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="https://elcamino.ua/upload/iblock/d48/d480247064fc22a9aedf17f3e3d02e7c.png">
+	<meta property="og:description" content="Мы предлагаем наш товар по доступной цене, но при этом сохраняем оригинальность, хороший дизайн и высокое качество. Мы хотим, чтобы удобство и безопасность были доступны каждому!">
+	
+	<meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:src" content="https://elcamino.ua/upload/iblock/d48/d480247064fc22a9aedf17f3e3d02e7c.png">
+    <meta name="twitter:description" content="Мы предлагаем наш товар по доступной цене, но при этом сохраняем оригинальность, хороший дизайн и высокое качество. Мы хотим, чтобы удобство и безопасность были доступны каждому!">
+	
+	 
+	 <!-- $APPLICATION->ShowProperty('og-image') -->
+	 
+	 
+    <title>Ошибка 404</title></head>
+
+<body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5MWFQF3"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+		<header class=" ">
+        <div class="top row">
+            <ul class="horizontal_list d-mob-none">
+				<li class="down_list for_clients">
+					<span class="text">
+							Клієнтам					</span>
+					<span class="ico_wrapper img_svg stroke">
+						<img src="/bitrix/templates/main/icons/Vector-down.svg" alt="">
+					</span>
+					
+<div class="popup_down ">
+	<ul>
+		<li><a href="/ua/partner/" >Стати партнером</a></li>
+
+		<li><a href="/ua/service/warranty/" >Гарантія та сервіс</a></li>
+
+		<li><a href="/ua/pay-and-deliv/" >Оплата і доставка</a></li>
+
+		<li><a href="/ua/contacts/" >Контакти</a></li>
+
+		<li><a href="/ua/promotions/"  class='promotions-color' >Акції</a></li>
+
+	</ul>
+</div>
+                </li>
+                <li>
+					<a href="javascript:void(0);">
+                        <span class="ico_wrapper">
+							<img src="/bitrix/templates/main/icons/clock-1.svg" alt="">
+                        </span>
+                        <span class="text">
+						пн-пт 9:00-17:00						</span>
+                    </a>
+                </li>
+				<li class="for_clients phones">
+    <a href="tel:+380688880494">
+        <span class="">
+            <img src="/bitrix/templates/main/icons/phone-call.svg" alt="">
+        </span>
+        <span class="text">068 888 04 94</span>
+        <a href="javascript:void(0);" class="phones-drop">
+            <span class="ico_wrapper img_svg stroke">
+                <img src="/bitrix/templates/main/icons/Vector-down.svg" alt="">
+            </span>
+        </a>
+    </a>
+    <div class="popup_down phones">
+        <ul>
+            <li>
+                <a href="tel:+380958880494"><img src="/bitrix/templates/main/icons/phone-call 1.svg" alt="">
+                    <span class="text">095 888 04 94</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</li>            </ul>
+			<div class="img_wrapper logo dark">
+	<a href="/"><img src="/bitrix/templates/main/images/Logo_Dark.svg" alt=""></a>
+</div>
+<div class="img_wrapper logo light">
+	<a href="/"><img src="/bitrix/templates/main/images/Logo_Light.svg" alt=""></a>
+</div>            <ul class="horizontal_list header-buttons">
+				<div class="mobile-logo">
+					<a href="/">
+						<img src="/bitrix/templates/main/images/elcamino-mobile-logo.png" alt="">
+					</a>
+				</div>
+                <li class="search_btn">
+					<form class="search_wrap" action="/search/">
+	<input type="text" id="searchInput" name="q" value="" size="15" maxlength="50" placeholder="Пошук">
+	<input type="submit" class="d-none" id="hSearchBtn" name="s" type="submit" value="Пошук">
+		<button class="start-search">
+		<img src="/bitrix/templates/main/icons/magnifying-glass.svg" alt="">
+	</button>
+	<button class="search-close-btn" id="search-close">×</button>
+</form>
+<label>
+	<span class="ico_wrapper">
+		<img src="/bitrix/templates/main/icons/magnifying-glass.svg" alt="">
+	</span>
+</label>										<div class="ajax-wrap searchInput">
+											</div>
+					                </li>
+
+                <li class="header-compare">
+            <a class="top_show_count top_show_count_compare" 
+           data-count="0" 
+           href="/personal/compare/">
+            <span class="ico_wrapper img_svg">
+                <img src="/bitrix/templates/main/icons/CompareEmpty-black.svg">
+            </span>
+        </a>
+    </li>
+                <li class="header-cart">
+					<div class="ajax_small_basket">
+					
+<a class="top_show_count top_show_count_basket" data-count="0" href="/ua/basket/">
+	<span class="ico_wrapper img_svg">
+		<img src="/bitrix/templates/main/icons/shopping-cart_1.svg" alt="">
+	</span>
+</a>
+
+
+
+
+<script>
+	var baskets = '';
+</script>
+
+
+					</div>
+
+                </li>
+                <li class="down_list login">
+											
+                    <a href="javascript:void(0);" title="">
+                        <span class="ico_wrapper img_svg">
+															<img src="/bitrix/templates/main/icons/avatar.svg" alt="">
+							                        </span>
+                    </a>
+                    <div class="popup_down">
+                        <div class="body">
+							
+
+	<ul id="personal_drop_menu">
+
+		    
+    <li><a href="/ua/personal/favorites/" >Обранi (<span class='fav_drop'>0</span>)</a></li>
+
+    
+    <li><a href="/ua/personal/compare/" >Порівняння (<span class='com_drop'>0</span>)</a></li>
+
+    
+    <li><a href="/ua/personal/orders/" >Мої замовлення</a></li>
+
+    
+    <li><a href="/ua/personal/" >Особисті дані</a></li>
+
+
+	</ul>
+
+                        </div>
+                        <div class="footer">
+                            <div class="wrapper notAuth">
+																<a id="loginBtn" class="text call_login_dialog" href="javascript:void(0);">Увійти</a>
+									<a id="registrationBtn" class="text call_registration_dialog" href="javascript:void(0);">Реєстрація</a>
+								                            </div>
+                        </div>
+                    </div>
+                </li>
+
+                <li class="down_list lang d-mob-none">
+                    <span class="text">Укр</span>
+                    <span class="ico_wrapper img_svg stroke">
+                        <img src="/bitrix/templates/main/icons/Vector-down.svg" alt="">
+                    </span>
+                    <form action="" class="popup_down">
+                        <ul>
+                            <li>
+								<div class="text lang_change" data-name="/ru/upload/iblock/cb6/zyndk4gs2pbx1qwol2a3txnst75ay11i/">
+                                    Рус                                </div>
+                            </li>
+                        </ul>
+                    </form>
+                </li>
+
+				<li class="mobile-menu-toggler">
+					<a href="javascript:void(0);">
+                        <span class="ico_wrapper img_svg">
+                            <img src="/bitrix/templates/main/icons/mobile-menu-toggler.svg" alt="">
+                        </span>
+                    </a>					
+				</li>
+            </ul>
+        </div>
+
+		
+    <nav>
+        <ul class="horizontal_list categories down_line href">
+                            <li class="popup_btn  has-child">
+
+                    <a href="/catalog/kolyaski/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Коляски                    </span>
+                    </a>
+
+                                            <div class="list_wrapper">
+                                <ul>
+                    <li class="popup_btn ">
+                <a href="/catalog/2_v_1/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        2 в 1                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/progulochnye-/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Прогулянкові                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/aksesuari/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Аксесуари                    </span>
+                </a>
+
+                            </li>
+            </ul>
+                            </div>
+                    
+                </li>
+                            <li class="popup_btn  has-child">
+
+                    <a href="/catalog/detskie-avtokresla/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Дитячі автокрісла                    </span>
+                    </a>
+
+                                            <div class="list_wrapper">
+                                <ul>
+                    <li class="popup_btn ">
+                <a href="/catalog/avtokrecla/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Aвтoкріcла                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/avtolyulki-/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Автолюльки                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/bustery/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Бустери                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/akceccuapy-/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Aкcеcуаpи                     </span>
+                </a>
+
+                            </li>
+            </ul>
+                            </div>
+                    
+                </li>
+                            <li class="popup_btn  has-child">
+
+                    <a href="/catalog/detskaya-komnata/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Дитяча кімната                    </span>
+                    </a>
+
+                                            <div class="list_wrapper">
+                                <ul>
+                    <li class="popup_btn ">
+                <a href="/catalog/krovatki-i-manezhi/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Ліжечка та манежі                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/kacheli-i-shezlongi/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Гойдалки та шезлонги                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/kovriki/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Килимки                     </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/vannochki/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Ванночки                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/gorshki/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Горщики                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/stoliki-i-kresla/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Меблі для навчання та творчості                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/pogremushki/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Брязкальця                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/khodunki/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Ходунки                    </span>
+                </a>
+
+                            </li>
+            </ul>
+                            </div>
+                    
+                </li>
+                            <li class="popup_btn  has-child">
+
+                    <a href="/catalog/dlya-kormleniya-/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Для годування                     </span>
+                    </a>
+
+                                            <div class="list_wrapper">
+                                <ul>
+                    <li class="popup_btn ">
+                <a href="/catalog/stulchiki-dlya-kormleniya/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Стільчики для годування                    </span>
+                </a>
+
+                            </li>
+                    <li class="popup_btn ">
+                <a href="/catalog/posuda/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Посуд                    </span>
+                </a>
+
+                            </li>
+            </ul>
+                            </div>
+                    
+                </li>
+                            <li class="popup_btn  has-child">
+
+                    <a href="/catalog/detskiy-transport/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Дитячий транспорт                     </span>
+                    </a>
+
+                                            <div class="list_wrapper">
+                                <ul>
+                    <li class="popup_btn ">
+                <a href="/catalog/trekhkolesnye-velosipedy/">
+                    <span class="menu_item_inner">
+<!--                        <span class="img_wrapper menu_item_picture">-->
+<!--                            <img src="--><!--" alt="--><!--">-->
+<!--                        </span>-->
+                        Триколісні велосипеди                    </span>
+                </a>
+
+                            </li>
+            </ul>
+                            </div>
+                    
+                </li>
+                    </ul>
+    </nav>
+
+
+		        <div class="footer row show-only-mobile">
+            <div class="row">
+																
+								            </div>
+
+
+
+						<!-- local/templates/.default/components/bitrix/catalog/catalog/section.php -->
+						        </div>
+
+		<div class="footer row show-only-pc">
+																
+								
+						<!-- local/templates/.default/components/bitrix/catalog/catalog/section.php -->
+						        </div>
+		    </header>
+
+
+
+	<div  class="popup_btn popup_btn_phone">
+        <div class="img_wrapper img_wrapper_n_h">
+            <img src="/bitrix/templates/main/icons/call.svg" alt="">
+        </div>
+        <div class="img_wrapper img_wrapper_n_h hover">
+            <img src="/bitrix/templates/main/icons/call_hover.svg" alt="">
+        </div>
+		<div class=" popup_p_ph">
+            <div class="top row">
+                <div class="img_wrapper close_popup_btn">
+                    <img src="/bitrix/templates/main/icons/close.svg" alt="">
+                </div>
+            </div>
+            <div class="body">
+				<div class="header row">
+	 Залиште свій номер телефону, і ми Вам зателефонуємо в робочий час
+</div>
+<div class="time row">
+	 Пн.-Пт. с 9:00 до 16:00
+</div>
+<br>
+                <form class="row input_text_wrapper form_feedback ">
+				<div class="after_send af_ss_fixed"></div>
+					<input type="hidden" nam="FORM_NAME" value="Обратная связь">
+					<input type="hidden" nam="LINK" value="https://elcamino.ua:443/upload/iblock/cb6/zyndk4gs2pbx1qwol2a3txnst75ay11i/ODT175800_9.jpeg">
+					<input type="hidden" nam="LANG" value="ua">
+					<input type="tel" name="PHONE" class="pop " placeholder="+38 (099) 999-99-99"  value="" required="">
+                    <label for="callMe ">
+						<input type="submit" id="callMe" value="Чекаю дзвінка!" style="color:#fff">
+                    </label>
+              	</form>
+                <div class="footer row ">
+					<p>
+	Натискаючи на кнопку, Ви погоджуєтеся з
+	<a class="ui" href="/ua/oferta/" target=_blank>
+		Договором публічної оферти
+	</a>
+	і
+	<a class="ui" href="/ua/privacy-policy/" target=_blank>
+		політикою конфіденційності
+	</a>
+</p>                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <main>
+							<section class="info_block">
+					
+<div class="mobile-menu-bg">	
+</div>
+<section class="mobile-menu">
+	<ul class="horizontal_list controls">
+		<li class="phone">
+			<span class="ico_wrapper">
+				<a href="javascript:void(0);" id="tel-popup-btn">
+					<img src="/bitrix/templates/main/icons/phone-call.svg" alt="">
+				</a>
+			</span>
+		</li>
+		
+		<!-- Переключатель языка -->
+		<li class="lang-wrap">
+			<a href="/ru/upload/iblock/cb6/zyndk4gs2pbx1qwol2a3txnst75ay11i/" class="lang-switch lang-rus ">рус</a>
+			<a href="/ru/upload/iblock/cb6/zyndk4gs2pbx1qwol2a3txnst75ay11i/" class="lang-switch lang-ua current">укр</a>
+		</li>
+		<li class="close-btn" id="mobile-menu-close">&times;</li>
+	</ul>
+	<ul>
+		<li class="mobile-menu-down_list selected">
+			<div class="down_list__title">
+				<span class="text mobile-menu-title">Каталог</span>
+				<span class="ico_wrapper img_svg stroke">
+					<img src="/bitrix/templates/main/icons/Vector-down.svg" alt="">
+				</span>
+			</div>			
+			<!-- Главное меню -->
+			
+<div class="mobile-menu-popup_down" style="display: block;">
+	<ul class="mobile-menu-list">
+					<li class=""><a href="/catalog/kolyaski/">Коляски</a></li>
+					<li class=""><a href="/catalog/detskie-avtokresla/">Дитячі автокрісла</a></li>
+					<li class=""><a href="/catalog/detskaya-komnata/">Дитяча кімната</a></li>
+					<li class=""><a href="/catalog/dlya-kormleniya-/">Для годування </a></li>
+					<li class=""><a href="/catalog/detskiy-transport/">Дитячий транспорт </a></li>
+			</ul>
+</div>		</li>
+
+		<li class="mobile-menu-down_list">
+			<div class="down_list__title">
+				<span class="text mobile-menu-title">Клієнтам</span>
+				<span class="ico_wrapper img_svg stroke">
+					<img src="/bitrix/templates/main/icons/Vector-down.svg" alt="">
+				</span>
+			</div>
+			<!-- Меню "клиентам" -->
+
+			
+
+	<div class="mobile-menu-popup_down">
+		<ul>
+					<li><a href="/ua/partner/" >Стати партнером</a></li>
+					<li><a href="/ua/service/warranty/" >Гарантія та сервіс</a></li>
+					<li><a href="/ua/pay-and-deliv/" >Оплата і доставка</a></li>
+					<li><a href="/ua/contacts/" >Контакти</a></li>
+					<li><a href="/ua/promotions/"  class='promotions-color' >Акції</a></li>
+			</ul>
+</div>
+		</li>
+	</ul>
+	<ul class="horizontal_list socials">
+		<li>
+			<a target="_blank" href="https://youtube.com/c/ElCaminotm" class="ico_wrapper img_svg">
+				<img src="/bitrix/templates/main/icons/socials/YouTube-black.svg" alt="">
+			</a>
+		</li>
+		<li>
+			<a target="_blank" href="https://instagram.com/elcamino.ua?igshid=36aurw918jeo" class="ico_wrapper img_svg">
+				<img src="/bitrix/templates/main/icons/socials/Intsagram-black.svg" alt="">
+			</a>
+		</li>
+		<li>
+			<a target="_blank" href="https://www.tiktok.com/@elcamino.ua" class="ico_wrapper img_svg">
+				<img src="/bitrix/templates/main/icons/socials/tiktok_black.svg" alt="">
+			</a>
+		</li>
+		<li>
+			<a target="_blank" href="https://t.me/El_Camino2021" class="ico_wrapper img_svg">
+				<img src="/bitrix/templates/main/icons/socials/Telegram-black.svg" alt="">
+			</a>
+		</li>
+		<li> <a target="_blank" href="viber://chat?number=%2B380978268415"> 
+				<img src="/bitrix/templates/main/icons/socials/viber_black.svg" alt=""> 
+			</a> 
+		</li>
+	</ul>
+</section>
+
+<div id="popup-mobile-tel" class="popup-bg">
+	<div class="popup-content fav-popup-content">
+			<div id="popup-close">
+				<a href="#" class="popup-close-btn">&times;</a>
+			</div>
+
+			<div class="fav-popup-description">
+				<a href="tel:+380688880494"><img src="/bitrix/templates/main/icons/phone-call.svg" alt="">068 888 04 94</a>
+				<a href="tel:+380958880494"><img src="/bitrix/templates/main/icons/phone-call.svg" alt="">095 888 04 94</a>
+			</div>
+
+	</div>
+</div>    <div class="err-wrapper">        
+        <h1 class="err-title">404</h1>
+        <div class="err-content">
+            <h2 class="err-subtitle">Упс, щось пішло не так!</h2>
+            <div class="err-text">Можливо, ви помилилися в адресі або сторінку було переміщено. Ви можете повернутись на головну, скористатися меню або пошуком.</div>
+        </div>
+        <div class="socials">
+            <div class="title">
+                Слідкуйте за нами у соціальних мережах
+            </div>
+            <ul class="horizontal_list">
+                <li>
+                    <a href="https://instagram.com/elcamino.ua?igshid=36aurw918jeo" class="ico_wrapper img_svg3 " target="_blank"> <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M22 0C9.84974 0 0 9.84974 0 22C0 34.1503 9.84974 44 22 44C34.1503 44 44 34.1503 44 22C44 9.84974 34.1503 0 22 0ZM22 2.64C11.3078 2.64 2.64 11.3078 2.64 22C2.64 32.6922 11.3078 41.36 22 41.36C32.6922 41.36 41.36 32.6922 41.36 22C41.36 11.3078 32.6922 2.64 22 2.64ZM31.6372 30.3685C31.6537 30.2786 31.6659 30.1873 31.68 30.0972V13.9028C31.6665 13.8141 31.6548 13.7251 31.6383 13.6367C31.4688 12.7296 30.7532 12.0256 29.8744 11.8999C29.838 11.895 29.8023 11.8866 29.7664 11.88H14.2336C14.1399 11.8976 14.0457 11.9109 13.9534 11.9329C13.0956 12.1372 12.461 12.8593 12.3388 13.7679C12.3338 13.8057 12.3264 13.8433 12.32 13.8812V30.1197C12.3377 30.2226 12.3518 30.3263 12.3739 30.4286C12.5635 31.3054 13.2794 31.985 14.1311 32.0995C14.1723 32.1047 14.2137 32.1131 14.2549 32.12H29.7451C29.8457 32.1021 29.9466 32.0873 30.0461 32.0648C30.8367 31.8894 31.4826 31.1999 31.6372 30.3685ZM14.4147 29.1271C14.4147 29.5579 14.7715 29.9284 15.1837 29.9284C19.7269 29.9287 24.2698 29.9287 28.813 29.9284C29.229 29.9284 29.5839 29.5585 29.5839 29.1245C29.5842 26.1327 29.5839 23.1412 29.5839 20.1497V20.0875H27.7358C27.9967 20.9594 28.0769 21.8463 27.9746 22.7502C27.8718 23.6544 27.5932 24.4959 27.1393 25.273C26.6851 26.0509 26.0964 26.6953 25.3755 27.2082C23.5069 28.5387 21.0468 28.6557 19.064 27.4923C18.0617 26.9048 17.2748 26.0856 16.7261 25.0299C15.9076 23.4547 15.7769 21.8015 16.257 20.0861C15.6439 20.0867 15.0333 20.0867 14.4144 20.0867V20.1413C14.4144 23.1365 14.4141 26.1318 14.4147 29.1271ZM21.91 26.0991C24.102 26.1483 25.875 24.3173 25.9211 22.0904C25.9684 19.7939 24.1966 17.8971 22.0001 17.8985C19.8529 17.8971 18.1074 19.7032 18.0772 21.9379C18.0463 24.2326 19.8034 26.0518 21.91 26.0991ZM29.5836 16.2638C29.5839 15.6249 29.5839 14.9856 29.5836 14.3467C29.5836 13.8884 29.2367 13.5237 28.7989 13.5234C28.1894 13.5231 27.5799 13.5228 26.9701 13.5234C26.5334 13.524 26.1854 13.8896 26.1851 14.3479C26.1848 14.9813 26.1832 15.6147 26.1873 16.2485C26.1879 16.343 26.205 16.4412 26.2337 16.5308C26.3432 16.868 26.6387 17.075 27.0005 17.0767C27.2946 17.0773 27.5887 17.0764 27.8831 17.0764C28.2016 17.0726 28.5211 17.079 28.8398 17.0709C29.2497 17.0602 29.5836 16.6929 29.5836 16.2638Z" fill="white" style="fill: rgb(55, 106, 152);"></path>
+        </svg> </a>
+                </li>
+                <li>
+                    <a href="https://youtube.com/c/ElCaminotm" class="ico_wrapper img_svg3" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M44 22C44 9.84974 34.1503 0 22 0C9.84974 0 0 9.84974 0 22C0 34.1503 9.84974 44 22 44C34.1503 44 44 34.1503 44 22ZM41.36 22C41.36 11.3078 32.6922 2.64 22 2.64C11.3078 2.64 2.64 11.3078 2.64 22C2.64 32.6922 11.3078 41.36 22 41.36C32.6922 41.36 41.36 32.6922 41.36 22ZM32.3561 27.0736C32.0934 28.2152 31.1597 29.0569 30.0361 29.1824C27.3746 29.4798 24.6808 29.4813 21.9986 29.4798C19.3167 29.4813 16.6227 29.4798 13.9615 29.1824C12.8376 29.0569 11.9043 28.2152 11.6419 27.0736C11.2682 25.4478 11.2682 23.6738 11.2682 22.0002C11.2682 20.3264 11.2726 18.5522 11.6461 16.9264C11.9088 15.7848 12.8421 14.9429 13.9656 14.8176C16.6271 14.5202 19.3209 14.5187 22.0031 14.5202C24.685 14.5187 27.379 14.5202 30.0403 14.8176C31.1641 14.9429 32.0979 15.7848 32.3603 16.9264C32.734 18.5522 32.7318 20.3264 32.7318 22.0002C32.7318 23.6738 32.7296 25.4478 32.3561 27.0736ZM20.0682 18.04L26.0082 21.4695L20.0682 24.8989V18.04Z" fill="white" style="fill: rgb(55, 106, 152);"></path>
+        </svg> </a>
+                </li>
+				<li>
+                    <a href="https://www.facebook.com/elcamino_ukraine" class="ico_wrapper img_svg3 " target="_blank"> 
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M22 0C9.84974 0 0 9.84974 0 22C0 34.1503 9.84974 44 22 44C34.1503 44 44 34.1503 44 22C44 9.84974 34.1503 0 22 0ZM22 2.64C11.3078 2.64 2.64 11.3078 2.64 22C2.64 32.6922 11.3078 41.36 22 41.36C32.6922 41.36 41.36 32.6922 41.36 22C41.36 11.3078 32.6922 2.64 22 2.64ZM31.6372 30.3685C31.6537 30.2786 31.6659 30.1873 31.68 30.0972V13.9028C31.6665 13.8141 31.6548 13.7251 31.6383 13.6367C31.4688 12.7296 30.7532 12.0256 29.8744 11.8999C29.838 11.895 29.8023 11.8866 29.7664 11.88H14.2336C14.1399 11.8976 14.0457 11.9109 13.9534 11.9329C13.0956 12.1372 12.461 12.8593 12.3388 13.7679C12.3338 13.8057 12.3264 13.8433 12.32 13.8812V30.1197C12.3377 30.2226 12.3518 30.3263 12.3739 30.4286C12.5635 31.3054 13.2794 31.985 14.1311 32.0995C14.1723 32.1047 14.2137 32.1131 14.2549 32.12H29.7451C29.8457 32.1021 29.9466 32.0873 30.0461 32.0648C30.8367 31.8894 31.4826 31.1999 31.6372 30.3685ZM14.4147 29.1271C14.4147 29.5579 14.7715 29.9284 15.1837 29.9284C19.7269 29.9287 24.2698 29.9287 28.813 29.9284C29.229 29.9284 29.5839 29.5585 29.5839 29.1245C29.5842 26.1327 29.5839 23.1412 29.5839 20.1497V20.0875H27.7358C27.9967 20.9594 28.0769 21.8463 27.9746 22.7502C27.8718 23.6544 27.5932 24.4959 27.1393 25.273C26.6851 26.0509 26.0964 26.6953 25.3755 27.2082C23.5069 28.5387 21.0468 28.6557 19.064 27.4923C18.0617 26.9048 17.2748 26.0856 16.7261 25.0299C15.9076 23.4547 15.7769 21.8015 16.257 20.0861C15.6439 20.0867 15.0333 20.0867 14.4144 20.0867V20.1413C14.4144 23.1365 14.4141 26.1318 14.4147 29.1271ZM21.91 26.0991C24.102 26.1483 25.875 24.3173 25.9211 22.0904C25.9684 19.7939 24.1966 17.8971 22.0001 17.8985C19.8529 17.8971 18.1074 19.7032 18.0772 21.9379C18.0463 24.2326 19.8034 26.0518 21.91 26.0991ZM29.5836 16.2638C29.5839 15.6249 29.5839 14.9856 29.5836 14.3467C29.5836 13.8884 29.2367 13.5237 28.7989 13.5234C28.1894 13.5231 27.5799 13.5228 26.9701 13.5234C26.5334 13.524 26.1854 13.8896 26.1851 14.3479C26.1848 14.9813 26.1832 15.6147 26.1873 16.2485C26.1879 16.343 26.205 16.4412 26.2337 16.5308C26.3432 16.868 26.6387 17.075 27.0005 17.0767C27.2946 17.0773 27.5887 17.0764 27.8831 17.0764C28.2016 17.0726 28.5211 17.079 28.8398 17.0709C29.2497 17.0602 29.5836 16.6929 29.5836 16.2638Z" fill="white" style="fill: rgb(55, 106, 152);"></path>
+         <img src="/bitrix/templates/main/icons/socials/Facebook-blue.svg" alt=""> </a>
+                </li>
+                <li>
+                    <a href="https://t.me/El_Camino2021" class="ico_wrapper img_svg3" target="_blank"> 
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M44 22C44 9.84974 34.1503 0 22 0C9.84974 0 0 9.84974 0 22C0 34.1503 9.84974 44 22 44C34.1503 44 44 34.1503 44 22ZM41.36 22C41.36 11.3078 32.6922 2.64 22 2.64C11.3078 2.64 2.64 11.3078 2.64 22C2.64 32.6922 11.3078 41.36 22 41.36C32.6922 41.36 41.36 32.6922 41.36 22ZM32.3561 27.0736C32.0934 28.2152 31.1597 29.0569 30.0361 29.1824C27.3746 29.4798 24.6808 29.4813 21.9986 29.4798C19.3167 29.4813 16.6227 29.4798 13.9615 29.1824C12.8376 29.0569 11.9043 28.2152 11.6419 27.0736C11.2682 25.4478 11.2682 23.6738 11.2682 22.0002C11.2682 20.3264 11.2726 18.5522 11.6461 16.9264C11.9088 15.7848 12.8421 14.9429 13.9656 14.8176C16.6271 14.5202 19.3209 14.5187 22.0031 14.5202C24.685 14.5187 27.379 14.5202 30.0403 14.8176C31.1641 14.9429 32.0979 15.7848 32.3603 16.9264C32.734 18.5522 32.7318 20.3264 32.7318 22.0002C32.7318 23.6738 32.7296 25.4478 32.3561 27.0736ZM20.0682 18.04L26.0082 21.4695L20.0682 24.8989V18.04Z" fill="white" style="fill: rgb(55, 106, 152);"></path>
+         <img src="/bitrix/templates/main/icons/socials/Telegram-blue.svg" alt=""> </a>
+                </li>
+				<li>
+                    <a href="viber://chat?number=%2B380978268415" class="ico_wrapper img_svg3" target="_blank"> 
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M44 22C44 9.84974 34.1503 0 22 0C9.84974 0 0 9.84974 0 22C0 34.1503 9.84974 44 22 44C34.1503 44 44 34.1503 44 22ZM41.36 22C41.36 11.3078 32.6922 2.64 22 2.64C11.3078 2.64 2.64 11.3078 2.64 22C2.64 32.6922 11.3078 41.36 22 41.36C32.6922 41.36 41.36 32.6922 41.36 22ZM32.3561 27.0736C32.0934 28.2152 31.1597 29.0569 30.0361 29.1824C27.3746 29.4798 24.6808 29.4813 21.9986 29.4798C19.3167 29.4813 16.6227 29.4798 13.9615 29.1824C12.8376 29.0569 11.9043 28.2152 11.6419 27.0736C11.2682 25.4478 11.2682 23.6738 11.2682 22.0002C11.2682 20.3264 11.2726 18.5522 11.6461 16.9264C11.9088 15.7848 12.8421 14.9429 13.9656 14.8176C16.6271 14.5202 19.3209 14.5187 22.0031 14.5202C24.685 14.5187 27.379 14.5202 30.0403 14.8176C31.1641 14.9429 32.0979 15.7848 32.3603 16.9264C32.734 18.5522 32.7318 20.3264 32.7318 22.0002C32.7318 23.6738 32.7296 25.4478 32.3561 27.0736ZM20.0682 18.04L26.0082 21.4695L20.0682 24.8989V18.04Z" fill="white" style="fill: rgb(55, 106, 152);"></path>
+         <img src="/bitrix/templates/main/icons/socials/viber_blue.svg" alt=""> </a>
+                </li>
+		 	    </ul>
+        </div>
+
+    </div>
+					</section>
+							<div id="btn_top" class="img_wrapper img_svg">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="8" viewBox="0 0 16 8" fill="none">
+			<path d="M1 1L6.58579 6.58579C7.36684 7.36684 8.63317 7.36683 9.41421 6.58579L15 1" stroke="black" stroke-linecap="round" style="fill: rgb(0, 0, 0);"></path>
+			</svg>
+		</div>
+		
+
+
+        <div id="user_pop_dialog" class="pop_dialog">
+            <div class="wrap">
+                <div class="window">
+
+                    <form class="var login form_auth">
+					<input type="hidden" name="ACTION" value="auth">
+                        <div class="header">
+                            <span class="text">
+								Ввійти на сайт                            </span>
+                            <div class="ico_wrapper img_svg close_dialog_btn">
+                                <img src="/bitrix/templates/main/icons/close.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="body">
+                            <div class="row error error_form_auth"></div>
+                            <div class="input_wrapper">
+                                <input type="text" class="ui light" name="LOGIN" placeholder="E-mail:" required>
+                            </div>
+                            <div class="input_wrapper show_error">
+                                <input type="password" class="ui light" name="PASSWORD" placeholder="Пароль:" required>
+                            </div>
+                            <div class="footer">
+                                <a id="dialogRemPass" onclick="showRememberPassDialog();" href="javascript:void(0);">
+                                    Забули пароль?                                </a>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <input type="submit" class="sub_btn" value="Ввійти" class="d-none">
+                            <div class="change_window" onclick="showRegistrationDialog();">
+                                Зареєструватися                            </div>
+                        </div>
+                    </form>
+
+
+                    <form class="var remember_password form_change_password">
+					<input type="hidden" name="LANG" value="ua">
+					<input type="hidden" name="ACTION" value="change">
+                        <div class="header">
+                            <span class="text">
+                                Ввійти на сайт                            </span>
+                            <div class="ico_wrapper img_svg close_dialog_btn">
+                                <img src="/bitrix/templates/main/icons/close.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="body">
+                            <div class="row error error_form_auth"></div>
+                            <div class="row title">
+								Якщо ви забули пароль, введіть адресу електронної пошти Вашого облікового запису. Посилання для зміни пароля прийде до Вас на E-mail.                            </div>
+                            <div class="row error">
+                            </div>
+                            <div class="input_wrapper" >
+                                <input type="text" class="ui light" placeholder="E-mail:"  name="LOGIN" required>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <input type="submit" class="sub_btn" value="Ввійти" class="d-none">
+                            <div class="change_window" onclick="showRegistrationDialog();">
+                                Зареєструватися                            </div>
+                        </div>
+                    </form>
+
+
+                    <form class="var registration form_registration">
+					<input type="hidden" name="ACTION" value="registration">
+                        <div class="header">
+                            <span class="text">
+                                Ввійти на сайт                            </span>
+                            <div class="ico_wrapper img_svg close_dialog_btn">
+                                <img src="/bitrix/templates/main/icons/close.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="body">
+                            <div class="row error error_form_auth"></div>
+                            <div class="input_wrapper">
+                                <input type="text" class="ui light" name="LOGIN" placeholder="E-mail:" required>
+                            </div>
+                            <div class="input_wrapper">
+                                <input type="password" class="ui light" name="PASWORD" placeholder="Пароль:"  required>
+                            </div>
+                            <div class="input_wrapper">
+                                <input type="password" class="ui light" name="PASWORD_2" placeholder="Підтвердження пароля" required>
+                            </div>
+                            <div class="footer">
+                                <input type="checkbox" class="ui orange light" name="dialogAgreeReg" id="dialogAgreeReg" required>
+                                <label for="dialogAgreeReg" class="text">
+                                    Погоджуюся з									<a class="ui my" href='/oferta/' target=_blank>
+                                        Договором публічної оферти                                    </a>
+                                    и
+                                    <a class="ui my" href="/privacy-policy/" target=_blank>
+                                        Політикою конфіденційності                                    </a>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <input type="submit" class="sub_btn" value="Зареєструватися" class="d-none">
+                            <div class="change_window" onclick="showLoginDialog();">
+                                Ввійти                            </div>
+                        </div>
+                    </form>
+
+                </div>
+                <div class="bg"></div>
+            </div>
+        </div>
+		   </main>
+    <footer class="parallax" data-lang="ua">
+        <ul class="horizontal_list">
+            <li class="column">
+                <div class="header">
+					<a href="/ua/catalog/" class="text">
+	Каталог
+</a>                </div>
+				<ul class="links">
+	<li id="bx_1847241719_81">
+		<a href="/catalog/kolyaski/">Коляски</a>
+	</li>
+	<li id="bx_1847241719_12565">
+		<a href="/catalog/detskie-avtokresla/">Дитячі автокрісла</a>
+	</li>
+	<li id="bx_1847241719_12541">
+		<a href="/catalog/detskaya-komnata/">Дитяча кімната</a>
+	</li>
+	<li id="bx_1847241719_12548">
+		<a href="/catalog/dlya-kormleniya-/">Для годування </a>
+	</li>
+	<li id="bx_1847241719_12551">
+		<a href="/catalog/detskiy-transport/">Дитячий транспорт </a>
+	</li>
+</ul>            </li>
+            <li class="column">
+				
+<div class="header">
+	<a href="/about-company/" class="text">Про компанію</a>
+</div>
+<ul class="links">
+	<li><a href="/partner/">Стати партнером</a></li>
+	<li><a href="/pay-and-deliv/">Оплата і доставка</a></li>
+	<li><a href="/privacy-policy/">Політика конфіденційності</a></li>
+	<li><a href="/oferta/">Договір публічної оферти</a></li>
+	<li><a href="/ua/contacts/">Контакти</a></li>
+</ul>
+
+            </li>
+            <li class="column">
+				
+<div class="header">
+	<a href="/service/" class="text">Сервіс та підтримка</a>
+</div>
+<ul class="links">
+	<li><a href="/service/faq/">FAQ</a></li>
+	<li><a href="/service/warranty/">Гарантія та сервіс</a></li>
+	<li><a href="/service/instructions/">Iнструкції</a></li>
+</ul>
+
+            </li>
+            <li class="column">
+                <div class="header">
+					<a href="/news/" class="text">Новини</a>                </div>
+            </li>
+            <li class="column subscribe">
+                <div class="header">
+   					<a href="javascript:void(0);" class="text">Розсилка</a>                </div>
+                <div class="content">
+                    <form class="subscription_form">
+						<div class="after_send"></div>
+						<input type="hidden" name="LANG" value="ua">
+                        <input type="email" value="" name="EMAIL" placeholder="E-mail" pattern=".+@.+.+">
+                        <label for="subscribeBtn" class="btn_my">
+							Підписатися                        </label>
+                        <input id="subscribeBtn" type="submit" class="d-none" value="Подписаться">
+                    </form>
+					<ul class="horizontal_list socials">
+	<li> <a target="_blank" href="https://youtube.com/c/ElCaminotm" class="ico_wrapper img_svg"> <img src="/bitrix/templates/main/icons/socials/YouTube.svg" alt=""> </a> </li>
+	<li> <a target="_blank" href="https://www.tiktok.com/@elcamino.ua" class="ico_wrapper img_svg"> <img src="/bitrix/templates/main/icons/socials/tiktok_white.svg" alt=""> </a> </li>
+	<li> <a target="_blank" href="https://instagram.com/elcamino.ua?igshid=36aurw918jeo" class="ico_wrapper img_svg"> <img src="/bitrix/templates/main/icons/socials/Intsagram.svg" alt=""> </a> </li>
+	<li> <a target="_blank" href="https://t.me/El_Camino2021" class="ico_wrapper img_svg"> <img src="/bitrix/templates/main/icons/socials/telegram.svg" alt=""> </a> </li>
+	<li> <a target="_blank" href="viber://chat?number=%2B380978268415"> <img src="/bitrix/templates/main/icons/socials/viber_new.svg " alt=""> </a> </li>
+	<li> <a target="_blank" href="https://www.facebook.com/elcamino_ukraine" class="ico_wrapper img_svg"> <img src="/bitrix/templates/main/icons/socials/Facebook.svg " alt=""> </a> </li>
+	 </ul>
+                </div>
+            </li>
+        </ul>
+        <div class="parallax-layer parallax-layer__1" data-parallax-deep="300"></div>
+		<p class="copyright">
+	2026</p>    </footer>
+
+
+
+
+	
+
+</body>
+
+</html>
+
+
+
+
